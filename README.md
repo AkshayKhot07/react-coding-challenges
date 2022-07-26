@@ -30,7 +30,7 @@ Tic-Tac-Toe
 
 Problem 5
 
-Countdown Timer
+Task Progress
 
 [Code Sandbox](https://codesandbox.io/s/react-task-progress-pu44cd)
 
